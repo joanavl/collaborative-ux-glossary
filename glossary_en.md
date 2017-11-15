@@ -110,12 +110,12 @@
 ### <a name="3-click-rule"></a>3-Click Rule
 A theory of website navigation prevalent in the early 2000s suggesting that a user of a website should be able to find any information with no more than three mouse clicks or they would leave out of frustration. It's now widely accepted as nonsense; usability studies disprove the theory's link to user satisfaction or success rates and instead link these to 'information scent'.  
 
-## <a name="5"></a>3
+## <a name="5"></a>5
 
 ### <a name="5-second-test"></a>5 Second Test
 As the name suggests, the 5-Second Test involves showing users a single content page for a quick 5 seconds. The aim is to gather a participant's initial impressions and assess the screen's clarity and conciseness using simple questions like "What is the most important information on the page?" or "How would you go about achieving your goal on this screen?". The setup is similar to a standard usability test, and may sometimes be combined with one. 
 
-## <a name="8"></a>3
+## <a name="8"></a>8
 
 ### <a name="80-20-rule"></a>80/20 Rule
 A common rule of thumb in business stating that roughly 80% of the effects come from 20% of the causes, based on phenomena shown empirically to exhibit such a probability distribution. Adapted for UX it might be true that "80% of the errors in a given system could be eliminated by fixing 20% of the most-reported bugs". Also known as the Pareto principle or the 'law of the vital few'.
